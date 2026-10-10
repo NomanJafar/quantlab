@@ -14,7 +14,7 @@ Quantization decisions need measured trade-offs, not vibes.
 
 ## Status
 
-Scaffolded. Concept notes and the first implementation are in progress; results land in `results/` once the GPU runs are done.
+Concept primer written (`CONCEPTS.md`). The comparison notebook and report code are next; results land in `results/` once the GPU runs are done.
 
 ## Layout
 
