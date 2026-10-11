@@ -1,0 +1,5 @@
+{
+ "scheme": "fp16",
+ "model": "Qwen/Qwen2.5-3B-Instruct",
+ "error": "RuntimeError: asyncio.run() cannot be called from a running event loop"
+}

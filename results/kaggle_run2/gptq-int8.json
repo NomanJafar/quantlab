@@ -1,0 +1,5 @@
+{
+ "scheme": "gptq-int8",
+ "model": "Qwen/Qwen2.5-3B-Instruct-GPTQ-Int8",
+ "error": "RuntimeError: asyncio.run() cannot be called from a running event loop"
+}
