@@ -1,0 +1,16 @@
+{
+  "id": "muhammadnomanjafar/quantlab-fp16-vs-gptq-vs-awq-on-a-t4",
+  "title": "quantlab: FP16 vs GPTQ vs AWQ on a T4",
+  "code_file": "kaggle_quantlab.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

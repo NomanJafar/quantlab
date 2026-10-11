@@ -14,7 +14,7 @@ Quantization decisions need measured trade-offs, not vibes.
 
 ## Status
 
-Concept primer written (`CONCEPTS.md`). The comparison notebook and report code are next; results land in `results/` once the GPU runs are done.
+Primer, eval helpers, report code and the comparison notebook are done; the GPU run is next. Results land in `results/` and below once it has run.
 
 ## Layout
 
